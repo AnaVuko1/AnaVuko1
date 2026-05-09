@@ -56,14 +56,34 @@
 
 <br/>
 
+## shipped
+
+<div align="center">
+
+| `4+` | `15+` | `6` | `~50%` |
+|:---:|:---:|:---:|:---:|
+| hospitality systems in production | AI agents deployed | RAG pipelines built | avg ops cost reduction |
+
+</div>
+
+<br/>
+
 ## stats
 
 <div align="center">
 
 <!-- Update username to AdijanVukov after rename -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AdijanVukov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnaVuko1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdijanVukov&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVuko1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/AnaVuko1/AnaVuko1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
