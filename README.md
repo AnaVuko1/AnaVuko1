@@ -28,7 +28,7 @@
 | | |
 |---|---|
 | **🏨 Hotel Automation** | PMS integrations, automated check-in/out flows, ops bots, staff coordination agents |
-| **🧠 LLM Orchestration** | Multi-agent pipelines, Claude / GPT / Gemini tool use, agentic task execution |
+| **🧠 LLM Orchestration** | Multi-agent pipelines, Claude / Grok-3 / Gemini 2.5 tool use, agentic task execution |
 | **📚 RAG & Knowledge Systems** | Vector DBs, document ingestion pipelines, context-aware AI assistants |
 | **📊 Data & Analytics** | Custom dashboards, structured reporting, real-time data pipelines |
 | **⚙️ Prompt Engineering** | System prompt architecture, chain-of-thought tuning, role-based agent design |
@@ -76,7 +76,7 @@ $ ps aux | grep "adijan --working-on"
   PID   PROJECT                        STACK                           PROGRESS
   1337  hotel-automation-engine        FastAPI · Claude · PostgreSQL   ████████░░  building
   0x2A  rag-knowledge-system           Qdrant · LangChain · FastAPI    ██████░░░░  active
-  0xFF  llm-orchestration-framework    Multi-agent · GPT-4o · Redis    █████████░  shipping
+  0xFF  llm-orchestration-framework    Multi-agent · Grok-3 · Redis    █████████░  shipping
 
 $ cat ~/.config/status
 
@@ -87,14 +87,6 @@ $ cat ~/.config/status
 
 $ █
 ```
-
-<br/>
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/AnaVuko1/AnaVuko1/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 <br/>
 
