@@ -73,7 +73,7 @@
 
 <div align="left">
 
-[![Email](https://img.shields.io/badge/adijan1@pm.me-0d1117?style=flat-square&logo=protonmail&logoColor=6EE7B7)](mailto:adijan1@pm.me)
+[![Email](https://img.shields.io/badge/aeth--lab@pm.me-0d1117?style=flat-square&logo=protonmail&logoColor=6EE7B7)](mailto:aeth-lab@pm.me)
 
 </div>
 
