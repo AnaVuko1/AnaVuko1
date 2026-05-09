@@ -68,16 +68,25 @@
 
 <br/>
 
-## stats
+## active
 
-<div align="center">
+```bash
+$ ps aux | grep "adijan --working-on"
 
-<!-- Update username to AdijanVukov after rename -->
-<img height="160" src="https://github-readme-stats-fork.vercel.app/api?username=AnaVuko1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://streak-stats.demolab.com/?user=AnaVuko1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" />
+  PID   PROJECT                        STACK                           PROGRESS
+  1337  hotel-automation-engine        FastAPI · Claude · PostgreSQL   ████████░░  building
+  0x2A  rag-knowledge-system           Qdrant · LangChain · FastAPI    ██████░░░░  active
+  0xFF  llm-orchestration-framework    Multi-agent · GPT-4o · Redis    █████████░  shipping
 
-</div>
+$ cat ~/.config/status
+
+  availability  →  open to new projects
+  focus         →  hospitality AI · agentic systems · LLM infra
+  timezone      →  CET (UTC+1)
+  contact       →  aeth-lab@pm.me
+
+$ █
+```
 
 <br/>
 
