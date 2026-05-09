@@ -73,9 +73,9 @@
 <div align="center">
 
 <!-- Update username to AdijanVukov after rename -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AnaVuko1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&count_private=true" />
+<img height="160" src="https://github-readme-stats-fork.vercel.app/api?username=AnaVuko1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVuko1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9&langs_count=6" />
+<img height="160" src="https://streak-stats.demolab.com/?user=AnaVuko1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7" />
 
 </div>
 
