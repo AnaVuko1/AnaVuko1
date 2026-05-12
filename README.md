@@ -6,32 +6,16 @@
 
 <br/>
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  adijan@vukov:~$                                                 │
-│                                                                  │
-│  ▸ AI/ML Engineer · Hospitality Automation Architect             │
-│  ▸ LLM Orchestration · RAG Pipelines · Multi-Agent Systems       │
-│  ▸ Prompt Engineering · Data Analysis · Backend Infrastructure   │
-│                                                                  │
-│  Building intelligent backends for hotels and property managers  │
-│  — from automated guest flows to full-stack AI agents            │
-│  that reason, plan, and act without human intervention.          │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 ## what i build
 
 | | |
 |---|---|
-| **🏨 Hotel Automation** | PMS integrations, automated check-in/out flows, ops bots, staff coordination agents |
-| **🧠 LLM Orchestration** | Multi-agent pipelines, Claude Opus 4.7 / Grok 4.3 / GPT-5.5 / Mythos tool use, agentic task execution |
-| **📚 RAG & Knowledge Systems** | Vector DBs, document ingestion pipelines, context-aware AI assistants |
-| **📊 Data & Analytics** | Custom dashboards, structured reporting, real-time data pipelines |
-| **⚙️ Prompt Engineering** | System prompt architecture, chain-of-thought tuning, role-based agent design |
+| **🏨 Hospitality AI** | PMS integrations, automated check-in/out flows, ops bots, staff coordination agents |
+| **🧠 LLM Orchestration** | Multi-agent pipelines, Claude / Grok / GPT tool use, agentic task execution |
+| **📈 Trading Systems** | Perp algos, signal pipelines, multi-exchange CVD, MT5 / Hyperliquid / FundingPips bridges |
+| **🌐 Web Platforms** | Editorial product sites, e-commerce flows, payment integrations, custom dashboards |
+| **📚 RAG & Knowledge** | Vector DBs, document ingestion, context-aware AI assistants |
+| **⚙️ Backend Infra** | FastAPI services, Docker / Traefik deployments, real-time data pipelines |
 
 <br/>
 
@@ -56,40 +40,6 @@
 
 <br/>
 
-## shipped
-
-<div align="center">
-
-| `4+` | `15+` | `6` | `~50%` |
-|:---:|:---:|:---:|:---:|
-| hospitality systems in production | AI agents deployed | RAG pipelines built | avg ops cost reduction |
-
-</div>
-
-<br/>
-
-## active
-
-```bash
-$ ps aux | grep "adijan --working-on"
-
-  PID   PROJECT                        STACK                           PROGRESS
-  1337  hotel-automation-engine        FastAPI · Claude · PostgreSQL   ████████░░  building
-  0x2A  rag-knowledge-system           Qdrant · LangChain · FastAPI    ██████░░░░  active
-  0xFF  llm-orchestration-framework    Multi-agent · Grok 4.3 · Redis   █████████░  shipping
-
-$ cat ~/.config/status
-
-  availability  →  open to new projects
-  focus         →  hospitality AI · agentic systems · LLM infra
-  timezone      →  CET (UTC+1)
-  contact       →  aeth-lab@pm.me
-
-$ █
-```
-
-<br/>
-
 ## reach me
 
 <div align="left">
@@ -101,5 +51,5 @@ $ █
 <br/>
 
 <div align="center">
-<sub><kbd>currently focused on: hospitality AI · agentic automation · LLM infra</kbd></sub>
+<sub><kbd>open to new projects · CET (UTC+1)</kbd></sub>
 </div>
